@@ -26,7 +26,7 @@ Develop targeted strategies to increase sales and profitability.
 
 ## 🛠️ Tools Used
 - **Analytical & Visual:**  Python\
-  <img width="96" height="96" src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
+  <img width="96" height="96" src="https://github.com/amanat-mahmud/Food-Delivery-Analysis/blob/main/icons8-python-96.png" alt="microsoft-excel-2019--v1"/>
 - **Presentation:** Microsoft Power Point\
   <img width="96" height="96" src="https://img.icons8.com/fluency/96/microsoft-powerpoint-2019.png" alt="microsoft-powerpoint-2019"/>
 
