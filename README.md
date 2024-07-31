@@ -65,8 +65,6 @@ Develop targeted strategies to increase sales and profitability.
 5. Data storytelling.
 6. Sharpened analytical and problem-solving abilities.
 7. Actionable Insights Generation.
-[//]: # 8. Strengthened strategic planning and  presentation skill.
-[//]: # 9. Enhanced communication skills.
 
 ## 💻 Installation and Usage
 - Download and run ipynb file using jupite notebok notebook.
