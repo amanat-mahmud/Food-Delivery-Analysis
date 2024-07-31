@@ -9,7 +9,6 @@
 - [Recommendations](#-recommendations)
 - [Project Learnings](#-project-learnings)
 - [Installation and Usage](#-installation-and-usage)
-- [Dashboard](#-dashboard)
 
 ## ❓ Problem Statement
 Khao a food delivery company is facing challenges in improving sales and profit though their sales in increasing each year. They want to know why their sales has not been improving by doing data analysis of 5 months data. They want to know which factors like restaurant, driver, average delivery time, area etc. are effecting their sales and profitability. They are concerned about how much they are losing in refunds. Finally they are interested to know  where they should invest their money and man power to boost their sales and profitability.  They want detailed analysis and recommendations based on these insights.
