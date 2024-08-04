@@ -66,6 +66,6 @@ Develop targeted strategies to increase sales and profitability.
 7. Actionable Insights Generation.
 
 ## 💻 Installation and Usage
-- Download and run ipynb file using jupite notebok.
+- Download and run ipynb file using jupiter notebok.
 - Or, Upload the ipynb file on Kaggle or google drive then run it.
 
