@@ -7,6 +7,7 @@
 - [Dataset Overview](#-dataset-overview)
 - [Key Findings](#-key-findings)
 - [Recommendations](#-recommendations)
+- [Project Presentation](#-project-presentation)
 - [Project Learnings](#-project-learnings)
 - [Installation and Usage](#-installation-and-usage)
 
@@ -55,6 +56,11 @@ Develop targeted strategies to increase sales and profitability.
 - Develop city-specific marketing strategies to boost local performance.
 - Enhance customer loyalty programs with personalized, tiered rewards.
 
+## 📌 Project Presentation
+[![Churn Analysis in Telecommunications](https://github.com/amanat-mahmud/Food-Delivery-Analysis/blob/main/cover.png)](https://youtu.be/c6gACf9Feqc)
+
+### Slides
+The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/Food-Delivery-Analysis/blob/main/slide.pdf)
 
 ## 🧠 Project Learnings
 1. Data exploration.
