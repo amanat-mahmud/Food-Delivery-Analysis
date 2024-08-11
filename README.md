@@ -57,7 +57,7 @@ Develop targeted strategies to increase sales and profitability.
 - Enhance customer loyalty programs with personalized, tiered rewards.
 
 ## 📌 Project Presentation
-[![Churn Analysis in Telecommunications](https://github.com/amanat-mahmud/Food-Delivery-Analysis/blob/main/cover.png)](https://youtu.be/c6gACf9Feqc)
+[![Food Delivery Analysis](https://github.com/amanat-mahmud/Food-Delivery-Analysis/blob/main/cover.png)](https://youtu.be/c6gACf9Feqc)
 
 ### Slides
 The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/Food-Delivery-Analysis/blob/main/slide.pdf)
